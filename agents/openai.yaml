@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 251"
+  short_description: "像素生命档：上半保留原照，下半把主体压成网格上的生命符号和档案留白"
+  default_prompt: "Use $xxd-panel-251 to transform my photograph following the complete canonical source brief."
