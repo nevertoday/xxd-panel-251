@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 251｜Pixel Life Archive: removes the background of a photo and rebuilds the subject as a conceptual pixel life-symbol on a regular grid — a limited number of pixel units in modular, repeating rhythms like data nodes, DNA sequences or pixel embroidery, keeping only outline, proportion, direction and relationships, the subject small and surrounded by archival white space on natural or archive paper with slight print error and grain, in a clear restrained palette of misty blue, teal, warm yellow, coral orange, soft pink and ivory from the photo, plus tiny monospace text or index numbers. Not a pixelated photo or game sprite. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-251 or asks for pixel-specimen, coded-nature or future-archaeology pixel art from a photo.",
+  "short_description": "像素生命档：把照片主体压成网格上的像素生命符号，四周是档案式留白",
+  "zh-CN": {
+    "name": "像素生命档",
+    "tagline": "把照片主体压成网格上的像素生命符号，像一件被未来保存下来的自然标本。",
+    "look": "背景和杂物都删掉，主体只留轮廓、比例、方向和关系，用规则网格上有限的像素单元重新搭出来；像素按模块重复排列，局部有变化，像数据节点、DNA 序列或像素刺绣，而不是把照片打成马赛克。主体小，四周是大片干净留白，底子是天然纸或档案纸，带一点纸纹和轻微印刷误差。颜色从照片里取，收成雾蓝、青绿、暖黄、珊瑚橙、柔粉、象牙白这类清透克制的几种。旁边有几行小小的等宽字体文字或编号，像标本档案的记录。",
+    "traits": ["像素档案", "生命符号", "网格模块", "极大留白", "收藏感", "等宽编号"],
+    "good": [
+      "轮廓清楚的自然对象：一片叶子、一朵花、一只蝴蝶、一条鱼、一只鸟",
+      "形状好认的单个生命：一只猫的侧影、一棵小树、一个贝壳",
+      "想做成标本卡片、收藏海报或科学感插画的照片"
+    ],
+    "poor": [
+      "想保留场景、背景或细节的照片，这里只剩一个主体",
+      "要看清人脸或文字的照片",
+      "想要普通游戏像素风、低清马赛克滤镜或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Pixel Life Archive",
+    "tagline": "Compresses your subject into a pixel life-symbol on a grid, like a specimen kept by a future civilisation.",
+    "look": "The background and clutter are removed; the subject keeps only its outline, proportion, direction and relationships, rebuilt from a limited number of pixel units on a regular grid. The pixels repeat in modules with small local variations, like data nodes, a DNA sequence or pixel embroidery, rather than a photo turned into mosaic. The subject is small, surrounded by wide clean white space on natural or archive paper with a little texture and slight print error. Colours come from the photo and are narrowed to a few clear, restrained ones such as misty blue, teal, warm yellow, coral orange, soft pink and ivory. A few lines of tiny monospace text or index numbers sit beside it like a specimen record.",
+    "traits": ["Pixel archive", "Life symbol", "Grid modules", "Vast white space", "Collectible feel", "Monospace numbering"],
+    "good": [
+      "Natural subjects with a clear outline: a leaf, a flower, a butterfly, a fish, a bird",
+      "A single living thing with a recognisable shape: a cat in profile, a young tree, a seashell",
+      "Photos you want as a specimen card, collectible poster or science-style illustration"
+    ],
+    "poor": [
+      "Photos where you want the scene, background or detail kept; only one subject remains",
+      "Photos where faces or text must stay readable",
+      "Requests for ordinary game pixel art, a low-res mosaic filter or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "ピクセル生命アーカイブ",
+    "tagline": "写真の主役を、グリッド上のピクセルの生命記号にします。未来の文明が保存した自然標本のように。",
+    "look": "背景や余計なものは消し、主役は輪郭、比率、向き、関係だけを残して、規則的なグリッド上の限られたピクセルで組み直します。ピクセルはモジュールとして繰り返し並び、ところどころに変化があり、写真をモザイクにしたのではなく、データの節点や DNA の配列、ピクセル刺繍のように見えます。主役は小さく、まわりは広くきれいな余白で、下地は自然紙やアーカイブ用紙、紙の目とわずかな印刷のずれが少し残ります。色は写真から取り、霧のような青、青緑、暖かな黄色、コーラルオレンジ、やわらかなピンク、アイボリーなど、澄んで控えめな数色にしぼります。標本の記録のように、小さな等幅フォントの文字や番号を数行添えます。",
+    "traits": ["ピクセルアーカイブ", "生命の記号", "グリッドモジュール", "広大な余白", "コレクション感", "等幅の番号"],
+    "good": [
+      "輪郭のはっきりした自然のもの：葉、花、蝶、魚、鳥",
+      "形のわかりやすい一つの生きもの：猫の横顔、若い木、貝殻",
+      "標本カード、コレクション用ポスター、科学風のイラストにしたい写真"
+    ],
+    "poor": [
+      "場面や背景、細部を残したい写真（残るのは主役一つだけです）",
+      "顔や文字を読み取れるようにしたい写真",
+      "ふつうのゲーム風ドット絵、低解像度のモザイクフィルター、アニメ調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "픽셀 생명 기록",
+    "tagline": "사진의 주인공을 격자 위 픽셀 생명 기호로 압축합니다. 미래 문명이 보관한 자연 표본처럼.",
+    "look": "배경과 잡다한 것은 지우고, 주인공은 윤곽, 비례, 방향, 관계만 남겨 규칙적인 격자 위 한정된 픽셀 단위로 다시 짭니다. 픽셀은 모듈처럼 반복되며 군데군데 변화가 있어, 사진을 모자이크로 만든 것이 아니라 데이터 노드나 DNA 서열, 픽셀 자수처럼 보입니다. 주인공은 작고 둘레는 넓고 깨끗한 여백이며, 바탕은 천연지나 기록용 종이로 종이 결과 미세한 인쇄 오차가 조금 남습니다. 색은 사진에서 가져와 안개 낀 파랑, 청록, 따뜻한 노랑, 코랄 오렌지, 부드러운 분홍, 아이보리처럼 맑고 절제된 몇 가지로 줄입니다. 표본 기록처럼 작은 고정폭 글씨나 번호를 몇 줄 곁들입니다.",
+    "traits": ["픽셀 기록", "생명 기호", "격자 모듈", "아주 넓은 여백", "소장품 느낌", "고정폭 번호"],
+    "good": [
+      "윤곽이 분명한 자연물: 나뭇잎, 꽃, 나비, 물고기, 새",
+      "모양이 잘 알아보이는 생명 하나: 고양이 옆모습, 어린나무, 조개껍데기",
+      "표본 카드, 소장용 포스터, 과학 느낌의 일러스트로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면이나 배경, 세부를 살리고 싶은 사진(주인공 하나만 남습니다)",
+      "얼굴이나 글자가 읽혀야 하는 사진",
+      "평범한 게임 도트 그림, 저해상도 모자이크 필터, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أرشيف الحياة البكسلي",
+    "tagline": "يضغط عنصر صورتك في رمز حياة بكسلي على شبكة، كعيّنة طبيعية حفظتها حضارة من المستقبل.",
+    "look": "تُحذف الخلفية والفوضى، ولا يحتفظ العنصر إلا بخطه الخارجي ونِسبه واتجاهه وعلاقاته، ويُعاد بناؤه من عدد محدود من وحدات البكسل على شبكة منتظمة. تتكرر البكسلات في وحدات مع تنويعات موضعية صغيرة، كعُقد بيانات أو تسلسل حمض نووي أو تطريز بكسلي، لا كصورة تحوّلت إلى فسيفساء. العنصر صغير، يحيط به فراغ أبيض نظيف واسع على ورق طبيعي أو ورق أرشيفي فيه شيء من الملمس وأخطاء طباعة طفيفة. تُؤخذ الألوان من الصورة وتُختصر إلى ألوان قليلة صافية متحفّظة، مثل الأزرق الضبابي والأزرق المخضر والأصفر الدافئ والبرتقالي المرجاني والوردي الناعم والعاجي. وبجانبه بضعة أسطر بخط صغير ثابت العرض أو أرقام فهرسة، كسجلّ عيّنة.",
+    "traits": ["أرشيف بكسلي", "رمز حياة", "وحدات شبكية", "فراغ أبيض شاسع", "طابع المقتنيات", "ترقيم بخط ثابت العرض"],
+    "good": [
+      "عناصر طبيعية بحدود واضحة: ورقة شجر، زهرة، فراشة، سمكة، طائر",
+      "كائن حي واحد يسهل تمييز شكله: قطة من الجانب، شجرة صغيرة، صدفة",
+      "صور تريدها بطاقة عيّنة أو ملصقاً للاقتناء أو رسماً بطابع علمي"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها أو خلفيتها أو تفاصيلها؛ لا يبقى إلا عنصر واحد",
+      "صور يجب أن تبقى فيها الوجوه أو الكتابة مقروءة",
+      "طلب فن بكسل الألعاب العادي أو مرشّح فسيفساء منخفض الدقة أو مظهر كرتوني"
+    ]
+  }
+}

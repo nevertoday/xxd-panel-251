@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-251
-description: "Create XXD Panel 251 raster artwork: a faithful photograph paired with a conceptual pixel archive that compresses the subject into a coded biological symbol on a quiet grid. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-251 or asks for this 像素生命档 style."
+description: "XXD Panel 251｜Pixel Life Archive: removes the background of a photo and rebuilds the subject as a conceptual pixel life-symbol on a regular grid — a limited number of pixel units in modular, repeating rhythms like data nodes, DNA sequences or pixel embroidery, keeping only outline, proportion, direction and relationships, the subject small and surrounded by archival white space on natural or archive paper with slight print error and grain, in a clear restrained palette of misty blue, teal, warm yellow, coral orange, soft pink and ivory from the photo, plus tiny monospace text or index numbers. Not a pixelated photo or game sprite. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-251 or asks for pixel-specimen, coded-nature or future-archaeology pixel art from a photo."
 ---
 
 # XXD Panel 251
